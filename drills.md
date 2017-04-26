@@ -32,12 +32,17 @@
 
 | | Exercise |
 | - | ------ |
-| Sokuto Geri | Side Kick |
-| Shomen Geri | Front Kick |
-| Mawashi Tsuki | Hook Punch |
-| Hajiki Uke Hiraken Tsuki | Tiger Paw Blocks and Strikes |
-| Seiken Tsuki | Closed Fist Block and Punch) |
-| Wauke Shuto Uraken Shoken Tsuki - Chop, Breakfast, One knucke punches |
-| Hijiki Uke Hiraken Shoken |
-
-To be studied: http://www.hilltop-uechiryu.com/training-exercises.html
+| Sokuto Geri | Side kick |
+| Shomen Geri | Front kick |
+| Mawashi Tsuki | Hook punch |
+| Hajiki Uke Hiraken Tsuki | Tiger paw blocks and dtrikes |
+| Seiken Tsuki | Closed fist block and punch) |
+| Shuto Uraken Shoken Tsuki | Chop, backfist, one-knuckle punch |
+| Hiji tsuki | Elbow Strikes |
+| Tenshin Zensoku Geri | Turn block and front kick off the forward leg |
+| Tenshin Kosuko Geri | Turn block and front kick off the back leg |
+| Tenshin Shoken Tsuki | Turn block one knuckle punch |
+| Shomen Hajiki | Fingertip strikes |
+| Koi no Shippo Uchi, Tate Uchi | Wrist blocks in four directions |
+| Koi no Shippo Yoko Uchi | Fish-tail wrist blocks |
+| Shin Kokyu | Deep breathing |
