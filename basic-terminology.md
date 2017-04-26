@@ -1,3 +1,18 @@
+# Numbers (Kazu)
+
+| Kazu | Numbers |
+| ---- | ------- |
+| Ichi | One |
+| Ni | Two |
+| San | Three |
+| Shi | Four |
+| Go | Five |
+| Roku | Six |
+| Shichi | Seven |
+| Hachi | Eight |
+| Ku | Nine |
+| Ju | Ten |
+
 # Basic Terminology (Kihon Jutsugo)
 
 | Kihon Jutsugo | Basic Terminology |
