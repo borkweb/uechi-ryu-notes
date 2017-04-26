@@ -28,7 +28,6 @@
 | Dogi (Gi) | Karate uniform |
 | Gi (Dogi) | Karate uniform |
 | Hajime | Begin |
-| Hidari | Left |
 | Karate | Karate simply means “Empty hand”, translated from 2 Japanese words: KARA=empty, and TE=hand. An empty handed form of self defense. |
 | Karate Do | The word "DO" means "THE WAY". Karate Do means: The Way of Karate, or Karate as a way of life. It refers to the ability to use one’s mental, physical and spiritual skills acquired through Karate in one’s everyday life. |
 | Kata | Form |
@@ -40,7 +39,6 @@
 | Kumite | Fight |
 | Kyu | Rank (below Black Belt) |
 | Mawatte | Turn |
-| Migi | Right |
 | Min-chin-chi-ryu | Term used by Kanbun to describe Pangainoon. It translates to "Speed with Glare." |
 | Mushin | Japanese term meaning no mindedness; clearing one’s mind of distractions. |
 | Obi | Belt |
