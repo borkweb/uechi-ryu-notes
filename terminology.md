@@ -134,6 +134,7 @@
 
 | Uchi Waza | Striking Technique |
 | --------- | ------------------ |
+| Boshiken | Thumb Knuckle Palm Strike |
 | Hiji Ate | Elbo Strike |
 | Shuto | Knife Hand |
 | Tetsui | Hammer Fist |
